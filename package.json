@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Repositório criado para seguir os exemplos mostrados no curso NodeJs, Typescript, TDD, Clean Architecture e SOLID(https://www.udemy.com/share/102x5iAkMfeVlSQng=/)",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "git-commit-msg-linter": "^2.3.11"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
