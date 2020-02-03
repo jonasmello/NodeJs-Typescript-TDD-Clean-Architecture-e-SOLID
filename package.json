@@ -22,7 +22,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "repository": {
     "type": "git",
