@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "@types/jest": "^25.1.1",
     "@types/node": "^13.7.0",
     "@typescript-eslint/eslint-plugin": "^2.18.0",
     "eslint": "^6.8.0",
@@ -15,11 +16,13 @@
     "eslint-plugin-standard": "^4.0.1",
     "git-commit-msg-linter": "^2.3.11",
     "husky": "^4.2.1",
+    "jest": "^25.1.0",
     "lint-staged": "^10.0.7",
+    "ts-jest": "^25.1.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
